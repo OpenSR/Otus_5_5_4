@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{16FA1BDC-EF43-74E3-93D9-10AC57863190}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Otus_5_5_4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
